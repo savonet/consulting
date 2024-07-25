@@ -18,3 +18,13 @@ We are proud to have partnered with some of the leading names in the industry. O
 * **AzuraCast**: Collaborating to improve their open-source radio management platform with advanced Liquidsoap integrations.
 
 Partner with us to transform your streaming projects into successful, scalable, and efficient solutions. Unlock the power of Liquidsoap today!
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EFGMLFSKJV">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-EFGMLFSKJV');
+</script>
