@@ -1,3 +1,3 @@
-# Liquidshop
+# Liquidsoap consulting
 
-Website for various editions of the [Liquidsoap workshop](http://www.liquidsoap.info/liquidshop/).
+Website for [Liquidsoap consulting](https://www.liquidsoap.info/consulting/).
