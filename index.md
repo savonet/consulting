@@ -4,7 +4,7 @@ Our comprehensive services encompass both audio and video streaming solutions. W
 
 Ready to unlock the power of Liquidsoap for your projects? Get in touch with us today!
 
-* Email: [info@liquidsoap.info](mailto:info@liquidsoap.info)
+* Email: [pro@liquidsoap.info](mailto:pro@liquidsoap.info)
 * Phone: [+1 (337) 943-0489](tel:+13379430489)
 
 We look forward to collaborating with you and helping your projects reach new heights!
